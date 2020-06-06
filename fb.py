@@ -46,7 +46,7 @@ def function(email,passw,i):
 	return False
 
 print('\n---------- Welcome To ~10 millions~ Komail-FacebookBruteForce ----------\n')
-file=open('passwords.txt','r')
+file=open('password.txt','r')
 
 email=input('Enter Email/Username : ')
 
